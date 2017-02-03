@@ -5,4 +5,4 @@ A small Windows form application for ordering food.
 * Open in Visual Studio
 * Press Start
 
-Or simply download .zip, navigate to bin/Debug/Pizzeria, and the app will launch in a new window.
+Or simply download .zip, navigate to bin/Debug/pizzeria.exe, and app will launch in a new window.

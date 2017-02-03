@@ -1,0 +1,9 @@
+C:\Users\anna\Documents\Visual Studio 2015\Projects\pizzeria\WindowsFormsApplication2\bin\Debug\pizzeria.exe.config
+C:\Users\anna\Documents\Visual Studio 2015\Projects\pizzeria\WindowsFormsApplication2\bin\Debug\pizzeria.exe
+C:\Users\anna\Documents\Visual Studio 2015\Projects\pizzeria\WindowsFormsApplication2\bin\Debug\pizzeria.pdb
+C:\Users\anna\Documents\Visual Studio 2015\Projects\pizzeria\WindowsFormsApplication2\obj\Debug\pizzeria.csprojResolveAssemblyReference.cache
+C:\Users\anna\Documents\Visual Studio 2015\Projects\pizzeria\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Pizzeria.resources
+C:\Users\anna\Documents\Visual Studio 2015\Projects\pizzeria\WindowsFormsApplication2\obj\Debug\pizzeria.Properties.Resources.resources
+C:\Users\anna\Documents\Visual Studio 2015\Projects\pizzeria\WindowsFormsApplication2\obj\Debug\pizzeria.csproj.GenerateResource.Cache
+C:\Users\anna\Documents\Visual Studio 2015\Projects\pizzeria\WindowsFormsApplication2\obj\Debug\pizzeria.exe
+C:\Users\anna\Documents\Visual Studio 2015\Projects\pizzeria\WindowsFormsApplication2\obj\Debug\pizzeria.pdb

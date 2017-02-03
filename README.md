@@ -1,6 +1,8 @@
 # pizzeria-formApp
 A small Windows form application for ordering food.
 ---
+![Pizzeria Windows form application](./img/pizzeriaSrc.PNG)
+
 * Download and extract .zip
 * Open in Visual Studio
 * Press Start
